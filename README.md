@@ -1,2 +1,4 @@
 # hello-world
-test
+Yo,
+
+I'm a web devolper - need to aquire new skills
